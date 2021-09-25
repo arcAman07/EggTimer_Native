@@ -4,9 +4,9 @@ An Egg Timer Native Application made using handlers,CountDownTimer,mediaPlayer,e
 ![image](https://user-images.githubusercontent.com/76823502/134244973-7b7153b9-45c6-41ec-9375-0426cc917124.png)
 
 Future Improvements: <br>
-1)Better UI.
-2)Setting timer manually and Alarm integration.
-3)Customize your timers during the day and store them for each particular activity.
-4)Reminders for your daily activitites.
+1)Better UI. <br>
+2)Setting timer manually and Alarm integration. <br>
+3)Customize your timers during the day and store them for each particular activity. <br>
+4)Reminders for your daily activitites. <br>
 
 
